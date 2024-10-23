@@ -20,6 +20,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "dsHdmiIn.h"
+#include "dsHdmiInTypes.h"
 
 dsError_t dsHdmiInInit (void)
 {
